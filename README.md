@@ -2,7 +2,10 @@
 
 **Projeto desenvolvido com nextjs e integração de autenticação com api do Google Calendar.** 
 O Projeto tem por finalidade fazer uma automatização de agendamento de reuniões a partir de horários e dias previamente definidos na aplicação. 
-O usuário passa seu link para as pessoas e elas marcam reuniões com você que serão mostradas no seu google calendar.
+
+O usuário passa seu link para as pessoas e elas marcam reuniões com você.
+
+**Observação:** As reuniões serão registradas no seu google calendar.
 
 **As variáveis para funcionamento da aplicação são**
 - DATABASE_URL = Define a URL do apontamento de banco de dados mysql usado pelo prisma.
