@@ -1,7 +1,8 @@
 # Ignite Call
 
-**Projeto desenvolvido com nextjs e integração de autenticação com api do Google Calendar.** <br/>
-O Projeto tem por finalidade fazer uma automatização de agendamento de reuniões a partir de horários e dias previamente definidos na aplicação. O usuário passa seu link para as pessoas e elas marcam reuniões com você.<br/>
+**Projeto desenvolvido com nextjs e integração de autenticação com api do Google Calendar.** <br/><br/>
+O Projeto tem por finalidade fazer uma automatização de agendamento de reuniões a partir de horários e dias previamente definidos na aplicação. 
+O usuário passa seu link para as pessoas e elas marcam reuniões com você.<br/><br/>
 **Observação:** As reuniões serão registradas no seu google calendar.
 
 **As variáveis para funcionamento da aplicação são**
